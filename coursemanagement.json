@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "courseName": "JavaScript",
+        "courseCode": "JS101",
+        "department": "CSE"
+    },
+    {
+        "id": 2,
+        "courseName": "Python",
+        "courseCode": "PY102",
+        "department": "Data Science"
+    },
+    {
+        "id": 3,
+        "courseName": "DBMS",
+        "courseCode": "DB103",
+        "department": "IT"
+    }
+]
